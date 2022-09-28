@@ -1,8 +1,5 @@
-# Tutorial React Router DOM
+# Reference project ReactJS 18.2, React Router 6.4.1
 
-## Tutorial URL
-
-https://reactrouter.com/en/v6.3.0/getting-started/tutorial
 ## Versions
 ```
 Nodejs: 18.9.1
